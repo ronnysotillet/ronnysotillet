@@ -29,12 +29,11 @@ Soy un desarrollador aplicaciones móviles y de páginas web responsivas, funcio
 [![Bootstap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=101010)]()
 </br>
-</br>
 
 ## Puedes encontrarme en:
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ronny-sotillet-faria-55b892183)
 </br>
-</br>
+
 ## Contacto:
 [![Email](https://img.shields.io/badge/ronny.sotillet777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ronny.sotillet777@gmail.com)
 
